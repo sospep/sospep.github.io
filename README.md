@@ -8,4 +8,4 @@
 - I organized into categories, so finding like/related guides should be somewhat easier
 - Changes/Additions/ - use the links in the guides 'how to' section or submit an issue here
 
-[guide \*.\*](https://sospep.github.io/guide.html)
+[guide \*.\*](https://sospep.github.io/guide/)
