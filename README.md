@@ -1,5 +1,5 @@
 # sospep.github.io
-- A collection of projects that I am working on. This page provides a brief overiew description of each project. 
+- A collection of projects that I am working on. This page provides a brief overiew description of each project that I have here on github. 
 
 ## [guide \*.\*](https://sospep.github.io/guide/)
 - A curated collecton of many of the top ranked guides to ...
@@ -18,3 +18,16 @@
 - Beginning with a clone of the rubyOne application, I altered the base functionality of the app to create/view/edit/delete SeatMap records. The seatmap records can then be used to generate an SVG SeatMap image, based on the parameters specified in the SeatMap record. The SVG images can be downloaded as a standalone file for use in your web site / web application where we can do some really cool stuff with them.
 - Extending the functionality of the generated SVG image, includes the ability to work with each individual seat that is part of your seat map. Is the seat available or not? Is the seat in the Gold zone or the Silver zone or the Bronze zone or ...,  
 
+## dotnetOne 
+- My first look at the new dotnet core 3.x.
+- Where i learned that generating a new webapp using the CLI in dotnet, the default application is now a @Razor pages application and NOT an MVC application 
+- there is nothing in this application, but i definetly PLAN to come back here and build a razor pages implmentation of the simple blog OR ...
+
+## dotnetTwo
+- An MVC implemenation of the simple blog application. The last step was to implment authorization where I attempted to scaffold in the Identity system and things went off the tracks. This is what was completed before that attempt. 
+
+## dotnetThree
+- This web application is a blogging application.
+- It is built using the latest release (3.x) of Microsft dotnet core development platform
+- A goal of this application would be able to use it as a quickstart template when creating new projects.
+- It features a full blown Authentication system for Authenticating users. 
