@@ -2,12 +2,23 @@
 - A collection of projects that I am working on. This page provides a brief overiew description of each project that I have here on github. 
 
 ## [guide \*.\*](https://sospep.github.io/guide/)
-- A curated collecton of many of the top ranked guides to ...
-- ... getting a wide variety of mostly 'technical type' things done
-- These guides were selected based upon on having a high hacker news points ranking
-- I organized them into categories, so finding like/related guides should be somewhat easier
+- A curated collecton of many of the top ranked guides to getting a variety of things done
+- These guides were selected based upon on having a high "hacker news" points ranking.
+- I then organized them into categories, so that finding like/related guides should be somewhat quicker and easier.
 - For Changes/Additions/ - use the links in the guides 'how to' section or submit an issue here
 
+<p align="center">
+  <a href="https://sospep.github.io/guide">
+    <img src="https://img.shields.io/badge/Demo---v--013-blue" alt="application demo">
+  </a>
+  <a href="https://github.com/sospep/sospep.github.io">
+    <img src="https://img.shields.io/badge/source-github-lightgrey.svg?longCache=true" alt="application source code at repository">
+  </a>
+  <a href="http://sospep.org/">
+    <img src="https://img.shields.io/badge/Project-status-blueviolet.svg?longCache=true" alt="application project">
+  </a>
+</p>
+                                         
 ## rubyOne 
 - This web application is a simple blogging application with some additional features and functionality. 
 - It is my first look at the Ruby programming language along with the Rails web development framework. 
