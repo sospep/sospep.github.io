@@ -11,7 +11,7 @@
   <a href="https://sospep.github.io/guide">
     <img src="https://img.shields.io/badge/Demo---v--013-blue" alt="application demo">
   </a>
-  <a href="https://github.com/sospep/sospep.github.io">
+  <a href="https://github.com/sospep/guide">
     <img src="https://img.shields.io/badge/source-github-lightgrey.svg?longCache=true" alt="application source code at repository">
   </a>
   <a href="http://sospep.org/">
