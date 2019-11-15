@@ -37,7 +37,7 @@
 ## dotnetTwo
 - An MVC implemenation of the simple blog application. The last step was to implment authorization where I attempted to scaffold in the Identity system and things went off the tracks. This is what was completed before that attempt. 
 
-## [dotnetThree](blog.sospep.org)
+## [dotnetThree](http://blog.sospep.org)
 - This web application is a blogging application.
 - It is built using the latest release (3.x) of Microsft's dotnet core development platform
 - A goal of this application would be able to use it as a quickstart template when creating new projects.
@@ -45,3 +45,15 @@
 - It features a full blown Authentication system for Authenticating users. 
 - It features a full blown Authorization system for allowing users access to specific resources
 - both of the above are built using an MVC implementation of the MSFT Identity system VS using the default Razor Pages implemention
+
+<p align="center">
+  <a href="https://sospep.github.io/guide">
+    <img src="https://img.shields.io/badge/Demo---v--013-blue" alt="application demo">
+  </a>
+  <a href="https://github.com/sospep/dotnetThree">
+    <img src="https://img.shields.io/badge/source-github-lightgrey.svg?longCache=true" alt="application source code at repository">
+  </a>
+  <a href="https://github.com/sospep/dotnetThree/projects">
+    <img src="https://img.shields.io/badge/Project-status-blueviolet.svg?longCache=true" alt="application project">
+  </a>
+</p>
