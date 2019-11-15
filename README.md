@@ -1,7 +1,7 @@
 # sospep.github.io
 - A collection of projects that I am working on. This page provides a brief overiew description of each project that I have here on github. 
 
-## [guide \*.\*](https://sospep.github.io/guide/)
+## <a href="https://sospep.github.io/guide/" target="_blank">guide \*.\*</a>
 - A curated collecton of many of the top ranked guides to getting a variety of things done
 - These guides were selected based upon on having a high "hacker news" points ranking.
 - I then organized them into categories, so that finding like/related guides should be somewhat quicker and easier.
