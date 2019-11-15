@@ -47,8 +47,8 @@
 - both of the above are built using an MVC implementation of the MSFT Identity system VS using the default Razor Pages implemention
 
 <p align="center">
-  <a href="https://sospep.github.io/guide">
-    <img src="https://img.shields.io/badge/Demo---v--013-blue" alt="application demo">
+  <a href="http://blog.sospep.org">
+    <img src="https://img.shields.io/badge/Demo---v--018-blue" alt="application demo">
   </a>
   <a href="https://github.com/sospep/dotnetThree">
     <img src="https://img.shields.io/badge/source-github-lightgrey.svg?longCache=true" alt="application source code at repository">
